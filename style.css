@@ -265,6 +265,14 @@ body {
   background: #071b82;
 }
 
+@media only screen and (max-width: 992px) {
+  /* Add responsive styles for max-width 992px */
+}
+
+@media only screen and (max-width: 768px) {
+  /* Add responsive styles for max-width 768px */
+}
+
 @keyframes colorChange {
   0% {
     color: #fff;
